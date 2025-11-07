@@ -24,9 +24,12 @@ The dataset is fetched from an SQL database using **PyODBC**, and analyzed using
 ##  Proje Yapısı | Project Structure
 
  e-ticaret-veri-analizi
+ 
 │
+
 ├── e-ticaret.py # Ana Python dosyası / Main analysis file
-├── data.csv # Örnek veri seti / Sample dataset
+
+├──data.csv # Örnek veri seti / Sample dataset
 
 ---
 
